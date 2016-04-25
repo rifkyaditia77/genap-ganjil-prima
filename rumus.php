@@ -1,7 +1,7 @@
 <?php
 
 //n = (n + 1) * (n - 1)
-// bilangan yang dibagi 1 dan bilangan itu 
+// bilangan prima = bilangan yang dibagi 1 dan bilangan itu sendiri
 $n = 1;
 $jumlah_bilangan_genap = 0;
 $jumlah_bilangan_ganjil = 0;
