@@ -31,8 +31,6 @@ for ($n; $n < 101; $n++) {
     echo $prima;
 
 }
-"<br/>";
 echo " Total Bilangan Genap = ".$jumlah_bilangan_ganjil;
 echo " Total Bilangan Ganjil = ".$jumlah_bilangan_genap;
-// echo " Total Bilangan Prima = ".$jumlah_bilangan_prima;
 ?>
